@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="velecky_4.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/velecky_4.2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
